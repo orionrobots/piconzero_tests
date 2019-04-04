@@ -1,0 +1,3 @@
+[submodule "PiconZero"]
+	path = PiconZero
+	url = https://github.com/4tronix/PiconZero.git
